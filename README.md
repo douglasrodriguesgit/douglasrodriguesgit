@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Douglas Rodrigues - Dev. Front End 🖐️
+### Olá! Eu sou o [Douglas Rodrigues](https://douglasrodriguesgit.github.io/portfolio/index.html) - Dev. Front End 🖐️
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasrodrigues.git@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-rodrigues-a03552258/)
@@ -12,8 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrodriguesgit)](https://github.com/douglasrodriguesgit/github-readme-stats)
 
 ## Tecnologias que estou aplicando no momento
-
- <div style="display:inline_block"> <br> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <br>
-  </div>
-  
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
